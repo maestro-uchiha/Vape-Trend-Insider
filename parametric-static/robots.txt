@@ -64,5 +64,5 @@ Disallow: /
 
 # Sitemap location
 
-Sitemap: https://maestro-uchiha.github.io/vape-trend-insider/sitemap.xml
+Sitemap: https://vape-trend-insider.pages.dev/sitemap.xml
 
