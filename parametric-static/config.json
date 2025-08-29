@@ -1,7 +1,7 @@
 ﻿{
-  "SiteName": "My ASD Site",
+  "SiteName": "Vape Trend Insider",
   "StoreUrl": "https://example.com/",
-  "Description": "Clean static sites with ASD.",
-  "BaseUrl": "https://maestro-uchiha.github.io/my-new-asd-site/",
+  "Description": "Get the latest trends in the vape market.",
+  "BaseUrl": "https://maestro-uchiha.github.io/vape-trend-insider/",
   "author": { "name": "Maestro" }
 }
